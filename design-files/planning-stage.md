@@ -25,3 +25,4 @@ What Will The Structure of The App Consists of? ( the basics for deployment )
     -will we add user account access now or later?
     -what will the menu consists of?
     -what will we choose to prioratize for features first?
+    -what's the cap for the plants we'll start off with?
